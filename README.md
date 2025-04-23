@@ -4,7 +4,7 @@
 
 View the URL Shortener in action:
 
-* <https://hlaueriksson.github.io/jekyll-url-shortener/>
+* <https://richy486.github.io/jekyll-url-shortener/>
 
 Read a blog post about the URL Shortener:
 
